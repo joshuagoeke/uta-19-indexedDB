@@ -36,6 +36,10 @@ Users can write their own code in the browser. However, the main purpose of this
 Then navigate into the developer tools and turn off the internet connection to see the app function completely offline.
     
 ![jate functioning](./assets/Jate1.jpg?raw=true)
+
+You can also install the JATE app as a PWA.
+
+![jate functioning](./assets/Jate2.jpg?raw=true)
     
 
 ## Credits
